@@ -1,0 +1,132 @@
+{
+  "patientApi": [
+    {
+      "id": 1,
+      "name": "Binu",
+      "lname": "Alexander",
+      "sgender": "Male",
+      "sreligion": "Christianity",
+      "smobileno": "8865327486",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "36",
+      "sstate": "UP",
+      "sdistrict": "ghaziabad",
+      "svillage": "Modi Nagar West"
+    },
+    {
+      "id": 2,
+      "name": "Ramesh",
+      "lname": "Kumars",
+      "sgender": "Male",
+      "sreligion": "Hindu",
+      "smobileno": "7896857421",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "8",
+      "sstate": "Gujrat",
+      "sdistrict": "Ahemdabad",
+      "svillage": "Sikander Pur"
+    },
+    {
+      "id": 3,
+      "name": "Harish",
+      "lname": "Khan",
+      "sgender": "Male",
+      "sreligion": "Muslim",
+      "smobileno": "999996532",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "30",
+      "sstate": "UP",
+      "sdistrict": "lucknow",
+      "svillage": "Faizabad"
+    },
+    {
+      "id": 4,
+      "name": "Nirmesh",
+      "lname": "Kumar",
+      "sgender": "Male",
+      "sreligion": "Christianity",
+      "smobileno": "6632569874",
+      "spatienttype": "Regular",
+      "sagecat": "32",
+      "agefvist": "30",
+      "sstate": " Pink City",
+      "sdistrict": "Jaipur",
+      "svillage": "Sikander ghar"
+    },
+    {
+      "name": "Uday",
+      "lname": "Gupta",
+      "sgender": "Male",
+      "sreligion": "Hindu",
+      "smobileno": "9865327485",
+      "spatienttype": "Reguler",
+      "sagecat": "30",
+      "agefvist": "28",
+      "sstate": "Delhi",
+      "sdistrict": "Palam",
+      "svillage": "Najafghar",
+      "id": 5
+    }
+  ],
+  "billingApi": [
+    {
+      "id": 1,
+      "name": "Anand",
+      "lname": "Chand",
+      "sgender": "Male",
+      "sreligion": "Christianity",
+      "smobileno": "8865327468",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "30",
+      "sstate": "Jaipur City",
+      "sdistrict": "Jaipur",
+      "svillage": "Sikander Pur"
+    },
+    {
+      "id": 2,
+      "name": "Ramesh",
+      "lname": "Chand",
+      "sgender": "Male",
+      "sreligion": "Christianity",
+      "smobileno": "8865327485",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "30",
+      "sstate": "Jaipur City",
+      "sdistrict": "Jaipur",
+      "svillage": "Sikander Pur"
+    },
+    {
+      "id": 3,
+      "name": "Nirmesh",
+      "lname": "Chand",
+      "sgender": "Male",
+      "sreligion": "Christianity",
+      "smobileno": "8865327485",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "30",
+      "sstate": "Jaipur City",
+      "sdistrict": "Jaipur",
+      "svillage": "Sikander Pur"
+    },
+    {
+      "id": 4,
+      "name": "Nirmesh",
+      "lname": "Chand",
+      "sgender": "Male",
+      "sreligion": "Christianity",
+      "smobileno": "8865327485",
+      "spatienttype": "Regular",
+      "sagecat": "Infant",
+      "agefvist": "30",
+      "sstate": "Jaipur City",
+      "sdistrict": "Jaipur",
+      "svillage": "Sikander Pur"
+    }
+  ]
+}
